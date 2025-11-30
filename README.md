@@ -1,7 +1,3 @@
-Aqui está um **README.md** completo, organizado e pronto para colocar no GitHub:
-
----
-
 # 📊 Análise de Temperaturas em Diferentes Cidades
 
 ### Projeto em C
